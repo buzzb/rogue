@@ -7,3 +7,5 @@ target/*
 documentation
 documentation/*
 .project
+*.class
+*.war
